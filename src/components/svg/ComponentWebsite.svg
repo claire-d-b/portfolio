@@ -1,0 +1,24 @@
+<svg
+			width="130"
+			height="100"
+			viewBox="0 0 336 306"
+			fill="none"
+			xmlns="http://www.w3.org/2000/svg">
+			<ellipse
+				cx="121.428"
+				cy="141.246"
+				rx="50"
+				ry="138.132"
+				transform="rotate(-35.8506 121.428 141.246)"
+				fill="#E5E1EE"
+			/>
+			<circle cx="213.5" cy="102.5" r="53.5" fill="#90BEDE" />
+			<ellipse
+				cx="241.019"
+				cy="175.835"
+				rx="140.5"
+				ry="21.5"
+				transform="rotate(-57.2878 241.019 175.835)"
+				fill="#68EDC6"
+			/>
+</svg>
